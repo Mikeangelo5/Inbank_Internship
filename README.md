@@ -72,4 +72,3 @@ This logic could be used by Inbank's data analysts or risk/fraud teams to:
 
 If you're using **Snowflake**, make sure your table names and casing match exactly (e.g., `currency_rates` vs `CURRENCY_RATES`).
 
----
